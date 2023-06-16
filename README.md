@@ -17,7 +17,7 @@
 
 <hr/>
 
-<img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
+<img src=https://octodex.github.com/images/maxtocat.gif alt=celebrate width=300 align=right>
 
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
 
